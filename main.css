@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding:0;
+	box-sizing: boarder-box;
+}
+
+body
+{
+background: linear-gradient(50deg, #FBBEA0, #F83D28);
+
+  text-align: center;
+}
+
+button
+{
+	border: solid color: #FF7A59;
+	width: 150px;
+	height:150px;
+	margin: 15px;
+	border-radius: 10%;
+	color: #FF0000
+}
+img {
+  border-radius: 10%;
+}
